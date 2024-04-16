@@ -32,7 +32,7 @@ To start your Detox Dash journey:
 Feel free to customize this README to better fit the specifics of your project.
 
 
-## Contributers
- # Anshika Thakur
- # Akanksha Kumari 
- # Himanshu Kumar
+# Contributers
+ ## Anshika Thakur
+ ## Akanksha Kumari 
+ ## Himanshu Kumar
